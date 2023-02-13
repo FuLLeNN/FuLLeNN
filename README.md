@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/62404655/218444803-ed67c54f-c197-4de4-8d94-92a1d222041a.gif" alt="Guilherme Miranda" />
+  <img src="https://user-images.githubusercontent.com/62404655/218445890-586148b9-daed-439e-b70d-32ffcb95b6c1.gif" alt="Guilherme Miranda" />
 </h1>
 
 ## Hey! 👋
