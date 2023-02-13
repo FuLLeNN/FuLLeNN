@@ -12,7 +12,7 @@ I'm Guilherme, a 19 years old Software Developer from Portugal, studying Softwar
 - 🎟️ I will be uploading some projects soon
 
 ## Skills
-- 👨‍💻 JavaScript, PHP, Java
+- 👨‍💻 JavaScript, PHP, Java, HTML, CSS
 - ⚙️ React, React Native, Vue.js, Next.js, Node.js, CodeIgniter, SpringBoot, 
 - 💽 MySQL, SQL, PostgreSQL, MariaDB
 - 👁️ API's, Agile, REST, Android Native, AWS, GitHub, Scrum, Web Developer
