@@ -21,3 +21,4 @@ I'm Guilherme, a 19 years old Software Developer from Portugal, studying Softwar
 - [Portfolio](https://portfolio-fullenn.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/guilherme-miranda-29139224b/)
 - [GitHub](https://github.com/FuLLeNN/)
+- [Email](guilhermecm@sapo.pt)
