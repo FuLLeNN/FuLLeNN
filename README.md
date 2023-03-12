@@ -9,7 +9,7 @@ I'm Guilherme, a 19 years old Software Developer from Portugal, studying Softwar
 
 - 👥 Looking for an interesting job in the IT area
 
-- 🎟️ I will be uploading some projects soon
+- 🎟️ Developing some projects
 
 ## Skills
 - 👨‍💻 JavaScript, PHP, Java, HTML, CSS
